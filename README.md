@@ -1,7 +1,8 @@
+<h1>Проект №1. </h1> <br><br>
+
 <center> <img src = images/hh_logo.png alt="drawing" style="width:400px;">
 <br><br>
-<h1>Проект №1. <br>
-Анализ резюме</h1></center><br>
+<h1>Анализ резюме</h1></center><br>
 
 ## Оглавление
 
