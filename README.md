@@ -44,8 +44,8 @@
 
 ### Исходные и полученные данные:
 
-Исходную базу можно скачать [здесь](https://disk.yandex.ru/d/XvinZ-rJ9rellg).`<br>`
-Очищенную базу можно скачать [здесь](https://disk.yandex.ru/d/ANNYn0Nc0JuCtg).`<br>`
+Исходную базу можно скачать [здесь](https://disk.yandex.ru/d/XvinZ-rJ9rellg).<br>
+Очищенную базу можно скачать [здесь](https://disk.yandex.ru/d/ANNYn0Nc0JuCtg).<br>
 Файлы необходимо положить в директорию _"data/"_
 
 ⬆️[к оглавлению](.README.md#Оглавление)
