@@ -40,7 +40,8 @@
 
 ### Исходные и полученные данные:  
 Исходную базу можно скачать [здесь](https://disk.yandex.ru/d/XvinZ-rJ9rellg).<br>
-Очищенную базу можно скачать [здесь](https://disk.yandex.ru/d/ANNYn0Nc0JuCtg).
+Очищенную базу можно скачать [здесь](https://disk.yandex.ru/d/ANNYn0Nc0JuCtg).<br>
+Файлы необходимо положить в директорию data/
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
