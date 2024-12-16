@@ -1,6 +1,6 @@
 <center> <img src = images/hh_logo.png alt="drawing" style="width:400px;">
 <br><br>
-<center><h1>Проект №1. <br>
+<h1>Проект №1. <br>
 Анализ резюме</h1></center><br>
 
 ## Оглавление
